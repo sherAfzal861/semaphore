@@ -16,6 +16,8 @@ This repository contains a Python implementation of a semaphore using the Django
 - Enter the number of resources and threads in the corresponding input fields.
 - Click the "Start" button to initiate the execution.
 - Observe the CPU status, waiting list, and allocation of resources in the graphical interface.
+- 
+
 Please note that this implementation is primarily intended for educational purposes and may not encompass all aspects of a production-ready semaphore. It serves as a demonstration of the basic principles of synchronization using a semaphore in a multi-threaded environment
 ## Contributions:
 
